@@ -1,4 +1,9 @@
 # Introduction to R Lessons
+
+## THIS REPOSITORY HAS BEEN MOVED
+
+In order to consolidate teaching materials for the UNC learn to code program, we have moved this repository to the [primary learn to code page](https://github.com/How-to-Learn-to-Code/rclass_tidyverse). I'm leaving this here, just in case someone comes along and wonders where the newest development is happening.
+
 ## Spencer Nystrom & Jamshaid Shahir
 
 
